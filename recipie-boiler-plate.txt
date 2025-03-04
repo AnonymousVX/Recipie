@@ -1,0 +1,29 @@
+<!DOCTYE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title><!--DishName--></title>
+  </head>
+  <body>
+    <h1><!--DishName--></h1>
+    <img src="" height="267" width="400" alt="">
+    <p></p>
+    <h2>Ingredients:</h2>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul> 
+    <br>
+    <h2>Directions:</h2>
+    <ol>
+      <li>Step _:<br>instructions</li><br>
+      <img src="" height="267" width="400" alt=""><br><br>
+      <li>Step _:<br>instructions</li><br>
+      <img src="" height="267" width="400" alt=""><br><br> 
+
+    </ol>
+    <a href="/home/vedantjadhav/anonymous/repos/odin-recipies/odin-recipies/index.html">Home</a>
+  </body>
+</html>
