@@ -1,0 +1,37 @@
+.recipie-images {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 15px;
+  border: 2px solid #ccc;
+}
+
+#header {
+  color: #333333;
+}
+
+.sub-header{
+  color: #3E2723;
+}
+
+.list {
+  color: #5D4037;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  border: none;
+  font size: 16px;
+  color: white;
+  background-color: #FF8C00;
+  border-radius: 10px;
+}
+
+* {
+  background-color: #FFF8E7;
+}
+
+#end {
+color: #333333;
+}
